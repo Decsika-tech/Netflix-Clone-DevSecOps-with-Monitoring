@@ -35,8 +35,6 @@ This project demonstrates a complete DevSecOps pipeline for deploying a Netflix 
 - Grafana
 - Node.js
 
-## Folder Structure
-
 ## How to Run the Project
 
 ### Step 1: Clone the Repository
