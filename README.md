@@ -4,18 +4,19 @@ This project demonstrates a complete DevSecOps pipeline for deploying a Netflix 
 ## Features
 -End-to-end DevSecOps CI/CD pipeline using Jenkins.
 
--Automated code integration with GitHub webhooks
--Static code quality analysis using SonarQube
--Dependency vulnerability scanning with NPM Audit and OWASP Dependency Check
--File and container image security scanning using Trivy
--Dynamic application security testing using OWASP ZAP
--Automated Docker image build and push to registry
--Application deployment using Docker and Kubernetes (Amazon EKS)
--Infrastructure provisioning using Terraform
--Real-time monitoring with Prometheus and Grafana
--Email and alert notifications for pipeline status
--Secure, scalable, and automated deployment workflow
--Continuous monitoring and observability of applications and infrastructure
+-Automated code integration with GitHub webhooks.
+
+-Static code quality analysis using SonarQube.
+-Dependency vulnerability scanning with NPM Audit and OWASP Dependency Check.
+-File and container image security scanning using Trivy.
+-Dynamic application security testing using OWASP ZAP.
+-Automated Docker image build and push to registry.
+-Application deployment using Docker and Kubernetes (Amazon EKS).
+-Infrastructure provisioning using Terraform.
+-Real-time monitoring with Prometheus and Grafana.
+-Email and alert notifications for pipeline status.
+-Secure, scalable, and automated deployment workflow.
+-Continuous monitoring and observability of applications and infrastructure.
 
 ## Architecture Diagram
 ![DevSecOps-Netflix](architecture.png)
