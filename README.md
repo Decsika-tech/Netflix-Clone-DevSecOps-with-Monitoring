@@ -42,7 +42,7 @@ This project demonstrates a complete DevSecOps pipeline for deploying a Netflix 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Decsika-tech/3-Tier-Architecture-Serverless-in-AWS-Cloud.git
+git clone https://github.com/Decsika-tech/DevSecOps-Netflix.git
 ```
 
 ### Step 2. Launch AWS Infrastructure
