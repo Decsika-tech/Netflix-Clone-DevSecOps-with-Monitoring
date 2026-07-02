@@ -97,6 +97,7 @@ The pipeline performs:
 ## Screenshot
 ![DevSecOps-Netflix](result-2.png)
 ![DevSecOps-Netflix](result-3.png)
+![DevSecOps-Netflix](result-1.png)
 
 ## Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue.
