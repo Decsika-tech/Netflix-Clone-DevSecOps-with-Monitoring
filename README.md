@@ -3,6 +3,7 @@ This project demonstrates a complete DevSecOps pipeline for deploying a Netflix 
 
 ## Features
 -End-to-end DevSecOps CI/CD pipeline using Jenkins.
+
 -Automated code integration with GitHub webhooks
 -Static code quality analysis using SonarQube
 -Dependency vulnerability scanning with NPM Audit and OWASP Dependency Check
