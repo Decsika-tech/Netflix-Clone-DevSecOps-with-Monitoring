@@ -101,7 +101,7 @@ The pipeline performs:
 
 ### Grafana response
 ![DevSecOps-Netflix](result-1.png)
-In production, the dashboards display real-time metrics.
+Note: In production, the dashboards display real-time metrics.
 
 ## Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue.
